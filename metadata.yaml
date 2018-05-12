@@ -1,0 +1,49 @@
+_repo: The-Interlude-of-Wealth-and-Health_17270
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+  editor:
+    agent_name: Simpson, Percy
+    birthdate: 1865
+    deathdate: 1962
+    gutenberg_agent_id: '7262'
+    url: http://www.gutenberg.org/2009/agents/7262
+description: Stage play, origin dated to 1557, when a play of the same title was registered
+  by John Waley, or Wally; appeared on a list of plays appended to the edition of
+  Goffe's Careless Shepherdess, printed for Rogers and Ley in 1656; an accurate description
+  was given by D.E. Baker in his Companion to the Play-House of 1764; original was
+  discovered in Ireland in the spring of 1906 and sold at Sotheby's on 30 June 1906
+  to the British Museum; 1907 transcribed reprint was prepared by the Malone Society
+  General Editor and checked by Percy Simpson, with facsimiles of the original 16th-century
+  first page produced by Horace Hart, M.A., at the Oxford University Press.
+gutenberg_issued: '2005-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17270'
+language: en
+publication_note: '[S.l.] :  The Malone Society,  1907 (printed by  Charles Whittingham
+  & Co.)'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry -- Early works to 1800'
+- !lcsh 'English drama'
+title: The Interlude of Wealth and Health
+titlepage_image:
+  cover_type: titlepage_image
+  image_path: 17270/17270-h/images/titlepage.png
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+url: http://www.gutenberg.org/ebooks/17270
